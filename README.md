@@ -153,6 +153,8 @@ To upload this application to the Shiny server:
 
 If you can't wait, you can test this application using this [link](http://glmsparkrdocker.inbionova.com/).
 
+![glm-sparkr-docker snapshot](images/glm-sparkr-docker.png)
+
 ## Status
 
 This is work in progress. For collaborations or feedback, you can contact me by email at [asevilla@inbionova.com](mailto:asevilla@inbionova.com).
