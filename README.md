@@ -96,7 +96,7 @@ If everything runs smoothly, you should see something like this after the `docke
 or go to the Carina Clusters page and press Edit Cluster. The IP should be in the Containers description of your master node:
   ```
   8787 → 146.20.00.00:8787
-  8080 → 146.20.00.00::080
+  8080 → 146.20.00.00::8080
   3838 → 146.20.00.00:80
   ```
 6. Launch your favorite web browser and use the previous addresses, taking into account that:
