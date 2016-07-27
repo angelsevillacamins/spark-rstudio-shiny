@@ -161,8 +161,8 @@ This is work in progress. For collaborations or feedback, you can contact me by 
 
 ## Licensing
 
-The files in this repository are licensed under the Apache License, Version 2.0. 
+The files in this repository are licensed under the Apache License, Version 2.0. RStudio Server and Shiny Server are licensed under the AGPL v3. 
 
 ## Trademarks
 
-RStudio is a registered trademark of RStudio, Inc. The use of the trademarked term RStudio and the distribution of the RStudio binaries through the images hosted on [hub.docker.com](https://hub.docker.com) has not been granted yet but explicit permission of RStudio has been requested. Please review [RStudio's trademark use policy](http://www.rstudio.com/about/trademark/) and address inquiries about further distribution or other questions to [permissions@rstudio.com](mailto:permissions@rstudio.com).
+RStudio and Shiny are trademarks of RStudio, Inc. The use of the trademarked terms RStudio and Shiny and the distribution of the RStudio binaries through the images hosted on [hub.docker.com](https://hub.docker.com) has been granted by explicit permission of RStudio. Please review [RStudio's trademark use policy](http://www.rstudio.com/about/trademark/) and address inquiries about further distribution or other questions to [permissions@rstudio.com](mailto:permissions@rstudio.com).
